@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Brian 👋
+### Hi 👋, I'm Brian
 
-*Remote Full Stack Developer*
+*A Remote Full Stack Developer*
 
 💻 Language/Framework Stack:
 
