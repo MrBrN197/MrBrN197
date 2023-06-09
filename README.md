@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi 👋
 
-💻 Language/Framework Stack:
-
-<!-- [![image](https://github-readme-stats.vercel.app/api?username=MrBrN197&show_icons=true&theme=onedark)](https://github.com/MrBrN197?tab=repositories)
+[![image](https://github-readme-stats.vercel.app/api?username=MrBrN197&show_icons=true&theme=onedark)](https://github.com/MrBrN197?tab=repositories)
 
 You can check out my portfolio 👉 [here](https://mrbrn197.github.io/Portfolio)
--->
